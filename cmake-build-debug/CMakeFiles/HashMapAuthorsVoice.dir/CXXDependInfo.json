@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/miapf/CLionProjects/HashMapAuthorsVoice/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/miapf/CLionProjects/HashMapAuthorsVoice",
+	"dir-top-bld" : "C:/Users/miapf/CLionProjects/HashMapAuthorsVoice/cmake-build-debug",
+	"dir-top-src" : "C:/Users/miapf/CLionProjects/HashMapAuthorsVoice",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/miapf/CLionProjects/HashMapAuthorsVoice/cmake-build-debug/CMakeFiles/HashMapAuthorsVoice.dir"
+}

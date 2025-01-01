@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\HashMapAuthorsVoice.dir\\hashNode.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

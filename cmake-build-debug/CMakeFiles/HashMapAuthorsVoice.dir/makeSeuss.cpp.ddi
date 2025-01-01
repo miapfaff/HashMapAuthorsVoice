@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/HashMapAuthorsVoice.dir/makeSeuss.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

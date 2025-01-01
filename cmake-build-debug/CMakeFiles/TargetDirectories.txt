@@ -1,0 +1,3 @@
+C:/Users/miapf/CLionProjects/HashMapAuthorsVoice/cmake-build-debug/CMakeFiles/HashMapAuthorsVoice.dir
+C:/Users/miapf/CLionProjects/HashMapAuthorsVoice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/miapf/CLionProjects/HashMapAuthorsVoice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
